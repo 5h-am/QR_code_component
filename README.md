@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 
-- Live Site URL: [Add live site URL here](https://5h-am.github.io/QR_code_component/)
+- Live Site URL: [Live site url](https://5h-am.github.io/QR_code_component/)
 
 
 
